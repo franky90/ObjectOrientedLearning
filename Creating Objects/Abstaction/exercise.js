@@ -1,3 +1,5 @@
+// Create Stopwatch 
+
 function Stopwatch() {
     
     let startTime, endTime, running, duration = 0
